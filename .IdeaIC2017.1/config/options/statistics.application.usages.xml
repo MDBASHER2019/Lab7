@@ -1,0 +1,28 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Project].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="1" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="execute.Application.Coverage" count="11" />
+      <entry feature="execute.Application.Debug" count="32" />
+      <entry feature="execute.Application.Run" count="1436" />
+      <entry feature="execute.JUnit.Coverage" count="1" />
+      <entry feature="execute.JUnit.Debug" count="2" />
+      <entry feature="execute.JUnit.Run" count="102" />
+      <entry feature="ide.help.reference.dialogs.generate.javadoc" count="1" />
+      <entry feature="ide.help.top" count="1" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ideaapp.started" count="117" />
+      <entry feature="terminal.win" count="3" />
+      <entry feature="tips.of.the.day.next" count="20" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="12" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

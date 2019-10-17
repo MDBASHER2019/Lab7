@@ -1,0 +1,25 @@
+#DrJava configuration file
+#Sat Apr 06 22:10:05 EDT 2019
+font.main = Monospaced-34
+font.line.numbers = Monospaced-30
+font.doclist = Monospaced-14
+font.toolbar = Oswald-30
+font.menu = Gill Sans MT-30
+lineenum.enabled = true
+key.delete.next = [shift DELETE]
+key.delete.previous = [shift BACK_SPACE]
+indent.level = 4
+auto.close.comments = true
+files.backup = false
+recent.files = [C:\\Users\\Md Basher\\April5.java,C:\\Users\\Md Basher\\Practice1.java,C:\\Users\\Md Basher\\Hello.java,C:\\Users\\Md Basher\\March26.java,C:\\Users\\Md Basher\\March25.java]
+recent.projects = [C:\\Users\\Md Basher\\March26.drjava,C:\\Users\\Md Basher\\March25.drjava,C:\\Users\\Md Basher\\Main.drjava]
+window.height = 2092
+window.width = 3872
+window.x = -16
+window.y = -16
+window.state = 6
+doc.list.width = 447
+last.dir = C:\\Users\\Md Basher\\April5.java
+last.interactions.dir = C:\\Users\\Md Basher
+clipboardhistory.store.size = 30
+tabbedpanes.state = 1920 1080 700 400
